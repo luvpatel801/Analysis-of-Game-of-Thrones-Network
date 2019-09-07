@@ -1,0 +1,10 @@
+Jon-Snow  ->  0.019
+Tyrion-Lannister  ->  0.0183
+Jaime-Lannister  ->  0.0154
+Stannis-Baratheon  ->  0.0136
+Arya-Stark  ->  0.0134
+Cersei-Lannister  ->  0.0133
+Daenerys-Targaryen  ->  0.0131
+Theon-Greyjoy  ->  0.0121
+Eddard-Stark  ->  0.0115
+Catelyn-Stark  ->  0.0112
